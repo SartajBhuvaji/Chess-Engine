@@ -157,7 +157,13 @@ cython_debug/
 # Other
 notes.txt
 myenv/
-
+app/
+dataset.npz
+n3.ipynb
+n4.ipynb
+n5.ipynb
+nn.ipynb
+runa_app.py
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can

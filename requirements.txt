@@ -3,3 +3,6 @@ numpy
 #tensorflow # if you don't have a gpu
 tensorflow-gpu
 keras
+fastapi
+pydantic
+uvicorn
